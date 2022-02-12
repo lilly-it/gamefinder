@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/gamefinder/static/js/main.4b366a60.chunk.js",
-    "main.js.map": "/gamefinder/static/js/main.4b366a60.chunk.js.map",
+    "main.js": "/gamefinder/static/js/main.cc33c858.chunk.js",
+    "main.js.map": "/gamefinder/static/js/main.cc33c858.chunk.js.map",
     "runtime-main.js": "/gamefinder/static/js/runtime-main.6dfa62ea.js",
     "runtime-main.js.map": "/gamefinder/static/js/runtime-main.6dfa62ea.js.map",
     "static/js/2.edafd3ff.chunk.js": "/gamefinder/static/js/2.edafd3ff.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.6dfa62ea.js",
     "static/js/2.edafd3ff.chunk.js",
-    "static/js/main.4b366a60.chunk.js"
+    "static/js/main.cc33c858.chunk.js"
   ]
 }
