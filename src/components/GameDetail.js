@@ -147,6 +147,14 @@ const Detail = styled(motion.div)`
   img {
     width: 100%;
   }
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    img {
+      padding: .5rem;
+      width: 50%;
+    }
+  }
 `;
 
 const Stats = styled(motion.div)`
