@@ -38,7 +38,7 @@ const Home = () => {
               {searched.map((game) => (
                 <Game
                   name={game.name}
-                  released={game.released}
+                  released={game.released || "2022-05-05"}
                   id={game.id}
                   image={game.background_image}
                   key={game.id}
